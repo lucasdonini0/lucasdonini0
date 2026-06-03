@@ -47,11 +47,10 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/kkluqinha/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/></a>
   <a href="https://www.linkedin.com/in/lucasobarbara/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a> 
 
-<!-- Aqui vai a cobrinha --> 
 </div>
 
 ---
-
+<!-- Aqui vai a cobrinha
 <div align="center">
   <img src="https://raw.githubusercontent.com/carlosliszt/carlosliszt/output/snake.svg" alt="Snake animation"/>
 </div>
