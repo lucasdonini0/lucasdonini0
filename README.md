@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="assets/soadhand.jpg" height="120" align="left"/>
+  <img src="assets/stan.png" height="120" align="left"/>
 
   <div align="left">
     <h6>⚒️ Tecnologias que uso:</h6>
