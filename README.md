@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 #
 
-<-- <img align="right" height="300" src="assets/penta.gif" alt="pentagram"/> -->
+<-- <img align="right" height="300" src="assets/belf.gif" alt="pentagram"/> -->
 
 <p align="left"> • Desenvolvedor Back-End</p>
 <p align="left"> • PT-BR / ENG</p>
