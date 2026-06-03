@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **lucasdonini0/lucasdonini0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +19,7 @@ Here are some ideas to get you started:
 
 #
 
-<-- <img align="right" height="300" src="assets/belf.gif" alt="pentagram"/> -->
+ <img align="right" height="300" src="assets/belf.gif" alt="pentagram"/> 
 
 <p align="left"> • Desenvolvedor Back-End</p>
 <p align="left"> • PT-BR / ENG</p>
@@ -48,7 +46,9 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://www.instagram.com/kkluqinha/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/></a>
-  <a href="https://www.linkedin.com/in/lucasobarbara/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
+  <a href="https://www.linkedin.com/in/lucasobarbara/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a> 
+
+<!-- Aqui vai a cobrinha --> 
 </div>
 
 ---
